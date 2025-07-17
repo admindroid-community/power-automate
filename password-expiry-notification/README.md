@@ -22,7 +22,7 @@ Here’s a preview of how the flow works and what the password expiration email 
 
 
 ## Automate Password Expiry Reminders in Just a Few Clicks with AdminDroid
-Power Automate flows can be tricky and limited. The Password Expiry Reminder Agent, integrated with the [AdminDroid Microsoft administration 365 tool](https://admindroid.com/?src=GitHub) covers what they miss, with less effort! Unlike flows, you can customize follow-up intervals without juggling complex steps. You can also notify admins at the right time when users haven’t taken action.
+Power Automate flows can be tricky and limited. The Password Expiry Reminder Agent, integrated with the [AdminDroid Microsoft 365 administration tool](https://admindroid.com/?src=GitHub) covers what they miss, with less effort! Unlike flows, you can customize follow-up intervals without juggling complex steps. You can also notify admins at the right time when users haven’t taken action.
 
 Plus, you can:
 
